@@ -13,8 +13,8 @@ function frameIt() {
 }
 
 function pressIt() {
-  $('input').on('keydown', function() {
-    if ()
+  $('input').on('keydown', function(k) {
+    if (k.which ===)
   })
 }
 
